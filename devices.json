@@ -1,0 +1,46 @@
+[
+   {
+      "name": "Pixel 3",
+      "brand": "Google",
+      "codename": "blueline",
+      "supported_versions": [
+         {
+            "version_code": "cr2",
+            "stable": true,
+         }
+      ]
+   },
+   {
+      "name": "Pixel 3 XL",
+      "brand": "Google",
+      "codename": "crosshatch",
+      "supported_versions": [
+         {
+            "version_code": "cr2",
+            "stable": true,
+         }
+      ]
+   },
+   {
+      "name": "Pixel 4",
+      "brand": "Google",
+      "codename": "flame",
+      "supported_versions": [
+         {
+            "version_code": "cr2",
+            "stable": true,
+         }
+      ]
+   },
+   {
+      "name": "Pixel 4 XL",
+      "brand": "Google",
+      "codename": "coral",
+      "supported_versions": [
+         {
+            "version_code": "cr2",
+            "stable": true,
+         }
+      ]
+   },
+]
