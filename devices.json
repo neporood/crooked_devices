@@ -43,4 +43,15 @@
          }
       ]
    },
+      {
+      "name": "Pixel 5",
+      "brand": "Google",
+      "codename": "redfin",
+      "supported_versions": [
+         {
+            "version_code": "cr2",
+            "stable": true,
+         }
+      ]
+   },
 ]
